@@ -18,8 +18,8 @@ create USER data_admin with password 'ik2fiDri' superuser;
 
 -- when creating a user , use the following syntax
 --
--- create user (>>USER NAME<<) with password (>>'password'<<);
+-- create user (>>'USER_NAME'<<) with password (>>'p@5sW0rd'<<);
 --
 -- if creating a super user, add superuser at the end of new user creation
 
--- create user (>>USER NAME<<) with password (>>'password'<<) superuser;
+-- create user (>>'USER_NAME'<<) with password (>>'p@5sW0rd'<<) superuser;
