@@ -23,3 +23,4 @@ create USER data_admin with password 'ik2fiDri' superuser;
 -- if creating a super user, add superuser at the end of new user creation
 
 -- create user (>>USER NAME<<) with password (>>'password'<<) superuser;
+-- NOTE, syntax is not casesensitive 

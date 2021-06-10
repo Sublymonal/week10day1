@@ -4,6 +4,7 @@
 SET ROLE aa_times;
 
 
+
 -- The "people" table
 -- | Column name | Type         | Constraints |
 -- |-------------|--------------|-------------|
